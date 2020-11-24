@@ -1,0 +1,46 @@
+{
+ "Account": {
+"Username": "kmkm25",
+     "Password": "bismillah"
+     },
+ "Target Profit": "10",
+ "Target Win": "5000",
+ "Lose Target": "0",
+ "Reset If Target Profit": "OFF",
+ "Reset If Target Win": "OFF",
+ "Interval": "1",
+ "Config": [{
+
+     "Name Bet Set": "1⃣ Mining Chance 81",
+     "Base Bet": "0.01",
+     "Max Bet": "OFF",
+     "Chance": "70",
+     "Random Chance": {
+          "Toggle": "OFF",
+          "Min": "84",
+          "Max": "84.5"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "ON",
+              "If Lose": "1",
+              "If Win": "1"
+            }
+        },
+     "If Win": "1",
+     "If Lose": "2",
+     "Reset If Win": "2",
+     "Reset If Profit": "0.01",
+     "Interval": "0"
+     }
+  ],
+  "Auto Wd": {
+       "Toggle": "ON",
+       "If Balance": "2500",
+       "Wallet Address":"DCQHY3RuWHMaX88119whoT4G1kKS3wwesM",
+       "Amount": "1001"
+      },
+  "User-Agent": "Android Phone / Chrome 65 [Mobile]:Mozilla/5.0 (Linux; Android 8.0; BLA-L29 Build/HUAWEIBLA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3236.6 Mobile Safari/537.36"
+
+}
